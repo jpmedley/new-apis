@@ -10,6 +10,7 @@ The Contact Picker API provides a browser-based user interfaces that allows webs
 
 ### Handling the Results
 
+
 ## Interfaces
 
 <dl>
